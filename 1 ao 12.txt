@@ -1,0 +1,21 @@
+1 - lista = input().split()
+    print(lista[0])
+
+2 - lista = input().split()
+    aux = lista[0]
+    lista[0] = lista[1]
+    lista[1] = aux
+    print(*lista)
+
+3 - lista = list(map(int, input().split()))
+    print(lista[0], lista[-1])
+
+4 - 
+5 - 
+6 - 
+7 - 
+8 - 
+9 - 
+10 - 
+11 - 
+12 - 
